@@ -8,10 +8,11 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Calgary" />
         <footer>
-          This project was coded by <a href="">Mackenzie Percy</a> and is{" "}
+          This project was coded by <a href="/">Mackenzie Percy</a> and is{" "}
           <a
             href="https://github.com/kenslyn/react-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
